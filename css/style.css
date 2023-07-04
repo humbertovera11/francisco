@@ -2,7 +2,7 @@
     --primario: #ffffff;
     --primarioOscuro: #864000;
     --secundario: #Fff;
-    --secundarioOscuro: #e09f11;
+    --secundarioOscuro: rgb(224, 159, 17);
     --blanco: #FFF;
     --negro: #000;
 
@@ -224,3 +224,26 @@ h3 {
     cursor: pointer;
     background-color: var(--secundarioOscuro);
 }
+
+.animar-letras {
+    animation: cambiarColor 2s infinite alternate;
+  }
+  
+  @keyframes cambiarColor {
+  
+    50% {
+      color: rgb(238, 153, 8);
+    }
+    100% {
+      color: rgb(245, 240, 240);
+    }
+  }
+
+
+  
+  
+  
+  
+  
+  
+  
