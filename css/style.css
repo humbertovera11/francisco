@@ -240,7 +240,16 @@ h3 {
   }
 
 
+  .boton {
+    display: flex;
+    justify-content: center;
+  }
   
+  .enlace {
+    text-decoration: none;
+    color: #864000;
+    font-size: 3rem;
+  }
   
   
   
