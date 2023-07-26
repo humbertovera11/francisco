@@ -259,6 +259,14 @@ h3 {
     font-size: 2rem;
     text-align: center;
 }
+h4{
+    font-family: var(--fuentePrincipal);
+    color: var(--primarioOscuro);
+    text-align: right;
+    font-size: 3rem;
+    text-transform: none;
+
+}
 
 
   
