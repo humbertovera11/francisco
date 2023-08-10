@@ -263,8 +263,15 @@ h4{
     font-family: var(--fuentePrincipal);
     color: var(--primarioOscuro);
     text-align: right;
-    font-size: 3rem;
+    font-size: 2rem;
     text-transform: none;
+
+
+}
+h5{
+    padding-top:80%;
+    font-family: var(--fuentePrincipal);
+    font-size: 2rem;
 
 }
 
